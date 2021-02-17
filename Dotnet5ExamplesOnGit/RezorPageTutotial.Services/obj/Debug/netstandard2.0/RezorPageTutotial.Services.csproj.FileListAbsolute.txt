@@ -1,0 +1,12 @@
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\Dotnet5ExamplesOnGit\RezorPageTutotial.Services\bin\Debug\netstandard2.0\RezorPageTutotial.Services.deps.json
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\Dotnet5ExamplesOnGit\RezorPageTutotial.Services\bin\Debug\netstandard2.0\RezorPageTutotial.Services.dll
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\Dotnet5ExamplesOnGit\RezorPageTutotial.Services\bin\Debug\netstandard2.0\RezorPageTutotial.Services.pdb
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\Dotnet5ExamplesOnGit\RezorPageTutotial.Services\bin\Debug\netstandard2.0\RazorPageTutorial.Models.dll
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\Dotnet5ExamplesOnGit\RezorPageTutotial.Services\bin\Debug\netstandard2.0\RazorPageTutorial.Models.pdb
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\Dotnet5ExamplesOnGit\RezorPageTutotial.Services\obj\Debug\netstandard2.0\RezorPageTutotial.Services.csprojAssemblyReference.cache
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\Dotnet5ExamplesOnGit\RezorPageTutotial.Services\obj\Debug\netstandard2.0\RezorPageTutotial.Services.AssemblyInfoInputs.cache
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\Dotnet5ExamplesOnGit\RezorPageTutotial.Services\obj\Debug\netstandard2.0\RezorPageTutotial.Services.AssemblyInfo.cs
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\Dotnet5ExamplesOnGit\RezorPageTutotial.Services\obj\Debug\netstandard2.0\RezorPageTutotial.Services.csproj.CoreCompileInputs.cache
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\Dotnet5ExamplesOnGit\RezorPageTutotial.Services\obj\Debug\netstandard2.0\RezorPageTutotial.Services.csproj.CopyComplete
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\Dotnet5ExamplesOnGit\RezorPageTutotial.Services\obj\Debug\netstandard2.0\RezorPageTutotial.Services.dll
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\Dotnet5ExamplesOnGit\RezorPageTutotial.Services\obj\Debug\netstandard2.0\RezorPageTutotial.Services.pdb

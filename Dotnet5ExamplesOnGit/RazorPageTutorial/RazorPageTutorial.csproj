@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RazorPageTutorial.Models\RazorPageTutorial.Models.csproj" />
+    <ProjectReference Include="..\RezorPageTutotial.Services\RezorPageTutotial.Services.csproj" />
+  </ItemGroup>
+
+</Project>

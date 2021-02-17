@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/akFEGS3VOK8Tt3+FnYU48er7lFpvlm1QD02XikMAHMMJhYp+1rUqj8RORyddarBBg6UfuJ1EJoteNsk+SYu1Q==",
+  "success": true,
+  "projectFilePath": "E:\\ProjectsWorks\\Practices\\DotnetandAngularExmples\\Dotnet5ExamplesOnGit\\RezorPageTutotial.Services\\RezorPageTutotial.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vipin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\vipin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

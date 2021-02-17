@@ -1,0 +1,9 @@
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\Dotnet5ExamplesOnGit\RazorPageTutorial.Models\bin\Debug\netstandard2.0\RazorPageTutorial.Models.deps.json
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\Dotnet5ExamplesOnGit\RazorPageTutorial.Models\bin\Debug\netstandard2.0\RazorPageTutorial.Models.dll
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\Dotnet5ExamplesOnGit\RazorPageTutorial.Models\bin\Debug\netstandard2.0\RazorPageTutorial.Models.pdb
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\Dotnet5ExamplesOnGit\RazorPageTutorial.Models\obj\Debug\netstandard2.0\RazorPageTutorial.Models.csprojAssemblyReference.cache
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\Dotnet5ExamplesOnGit\RazorPageTutorial.Models\obj\Debug\netstandard2.0\RazorPageTutorial.Models.AssemblyInfoInputs.cache
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\Dotnet5ExamplesOnGit\RazorPageTutorial.Models\obj\Debug\netstandard2.0\RazorPageTutorial.Models.AssemblyInfo.cs
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\Dotnet5ExamplesOnGit\RazorPageTutorial.Models\obj\Debug\netstandard2.0\RazorPageTutorial.Models.csproj.CoreCompileInputs.cache
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\Dotnet5ExamplesOnGit\RazorPageTutorial.Models\obj\Debug\netstandard2.0\RazorPageTutorial.Models.dll
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\Dotnet5ExamplesOnGit\RazorPageTutorial.Models\obj\Debug\netstandard2.0\RazorPageTutorial.Models.pdb
