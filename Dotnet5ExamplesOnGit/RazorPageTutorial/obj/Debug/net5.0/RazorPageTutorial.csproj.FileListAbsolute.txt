@@ -47,3 +47,9 @@ E:\ProjectsWorks\Practices\DotnetandAngularExmples\Dotnet5ExamplesOnGit\RazorPag
 E:\ProjectsWorks\Practices\DotnetandAngularExmples\Dotnet5ExamplesOnGit\RazorPageTutorial\bin\Debug\net5.0\RazorPageTutorial.Models.pdb
 E:\ProjectsWorks\Practices\DotnetandAngularExmples\Dotnet5ExamplesOnGit\RazorPageTutorial\bin\Debug\net5.0\RezorPageTutotial.Services.pdb
 E:\ProjectsWorks\Practices\DotnetandAngularExmples\Dotnet5ExamplesOnGit\RazorPageTutorial\obj\Debug\net5.0\Razor\Pages\Employees\Index.cshtml.g.cs
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\Dotnet5ExamplesOnGit\RazorPageTutorial\obj\Debug\net5.0\Razor\Pages\Employees\Details.cshtml.g.cs
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\Dotnet5ExamplesOnGit\RazorPageTutorial\obj\Debug\net5.0\Razor\Pages\NotFound.cshtml.g.cs
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\Dotnet5ExamplesOnGit\RazorPageTutorial\obj\Debug\net5.0\Razor\Pages\Employees\Edit.cshtml.g.cs
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\Dotnet5ExamplesOnGit\RazorPageTutorial\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\Dotnet5ExamplesOnGit\RazorPageTutorial\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\Dotnet5ExamplesOnGit\RazorPageTutorial\bin\Debug\net5.0\Newtonsoft.Json.dll

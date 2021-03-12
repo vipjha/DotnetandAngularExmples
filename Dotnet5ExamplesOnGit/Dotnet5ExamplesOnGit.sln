@@ -13,11 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatrimonialProject", "Matri
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SMS.Web", "SMS.Web\SMS.Web.csproj", "{D4487841-5025-4670-BE6B-61514C7601EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorPageTutorial", "RazorPageTutorial\RazorPageTutorial.csproj", "{E0EA301D-484C-43EA-939B-342F7C275430}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RazorPageTutorial", "RazorPageTutorial\RazorPageTutorial.csproj", "{E0EA301D-484C-43EA-939B-342F7C275430}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorPageTutorial.Models", "RazorPageTutorial.Models\RazorPageTutorial.Models.csproj", "{4DAE9251-052D-4D9B-AEB6-CBD8226B8006}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RazorPageTutorial.Models", "RazorPageTutorial.Models\RazorPageTutorial.Models.csproj", "{4DAE9251-052D-4D9B-AEB6-CBD8226B8006}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RezorPageTutotial.Services", "RezorPageTutotial.Services\RezorPageTutotial.Services.csproj", "{4A5A142C-AF09-4B46-9471-15A6B0395CD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RezorPageTutotial.Services", "RezorPageTutotial.Services\RezorPageTutotial.Services.csproj", "{4A5A142C-AF09-4B46-9471-15A6B0395CD8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

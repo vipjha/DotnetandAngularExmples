@@ -19,8 +19,15 @@ using RazorPageTutorial;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 2 "E:\ProjectsWorks\Practices\DotnetandAngularExmples\Dotnet5ExamplesOnGit\RazorPageTutorial\Pages\_ViewImports.cshtml"
+using RazorPageTutorial.Models;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"7091c65830b0329e613be026ede8a57552863778", @"/Pages/_ViewStart.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"9dcbb29afcc85f0daf0fa58d3cf8eec87460e8ff", @"/Pages/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"93877e5d4c69675b45a813cf0761bf1d2511f0b0", @"/Pages/_ViewImports.cshtml")]
     public class Pages__ViewStart : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998

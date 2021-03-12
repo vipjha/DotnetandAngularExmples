@@ -11,7 +11,7 @@ namespace SMS.Web.Data
     public class DbInitializer
     {
         public static async Task InitializeAsync(ApplicationDbContext context, IServiceProvider serviceProvider,
-            UserManager<ApplicationUser> userManger)
+            UserManager<ApplicationUser> userManager)
         {
             var RoleManger = serviceProvider.GetRequiredService<RoleManager<IdentityRole>>();
             string[] RoleNames = { "Admin", "Teacher", "Student" };
@@ -25,17 +25,17 @@ namespace SMS.Web.Data
                 }
             }
             string Email = "admin@myemail.com";
-            string Password = "AB@321";
-            if(userManger.FindByEmailAsync(Email).Result==null)
+            string Password = "AB@54321";
+            if(userManager.FindByEmailAsync(Email).Result==null)
             {
                 ApplicationUser user = new ApplicationUser();
                 user.UserName = Email;
                 user.Email = Email;
-                IdentityResult result = userManger.CreateAsync(user, Password).Result;
+                IdentityResult result = userManager.CreateAsync(user, Password).Result;
 
                 if (result.Succeeded)
                 {
-                    userManger.AddToRoleAsync(user, "Admin").Wait();
+                    userManager.AddToRoleAsync(user, "Admin").Wait();
                 }
             }
         }

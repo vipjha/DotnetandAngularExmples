@@ -1,33 +1,43 @@
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using SMS.Web.Data;
+using SMS.Web.Models;
 using System;
 
 namespace SMS.Web
 {
     public class Program
     {
+
         public static void Main(string[] args)
         {
-            var host = BuildWebHost(args);
+            var host = CreateHostBuilder(args).Build();
+
+            CreateDbIfNotExists(host);
+
+            host.Run();
+        }
+
+        private static void CreateDbIfNotExists(IHost host)
+        {
             using (var scope = host.Services.CreateScope())
             {
                 var services = scope.ServiceProvider;
                 try
                 {
-                    var context = services.GetRequiredServices<ApplicationDbContext>();
-                    var userManager = services.GetRequiredServices<UserManager<ApplicationDbContext>>();
+                   var context = services.GetRequiredService<ApplicationDbContext>();
+                   var userManager = services.GetRequiredService<UserManager<ApplicationUser>>();
                     DbInitializer.InitializeAsync(context, services, userManager).Wait();
                 }
                 catch (Exception ex)
                 {
                     var logger = services.GetRequiredService<ILogger<Program>>();
-                    logger.LogError(ex, "An error occured");
+                    logger.LogError(ex, "An error occurred creating the DB.");
                 }
             }
-            CreateHostBuilder(args).Build().Run();
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
@@ -38,3 +48,8 @@ namespace SMS.Web
                 });
     }
 }
+
+
+
+       
+
