@@ -34,9 +34,9 @@ namespace Castagram.Server
 
 
             var appSettingsConfiguration = Configuration.GetSection("ApplicationSetting");
-            services.Configure<ApplicationSetting>(appSettingsConfiguration);
+            services.Configure<AppSetting>(appSettingsConfiguration);
 
-            var appSettings = appSettingsConfiguration.Get<ApplicationSetting>();
+            var appSettings = appSettingsConfiguration.Get<AppSetting>();
             var key = Encoding.ASCII.GetBytes(appSettings.Secret);
             
             services.AddAuthentication(x =>

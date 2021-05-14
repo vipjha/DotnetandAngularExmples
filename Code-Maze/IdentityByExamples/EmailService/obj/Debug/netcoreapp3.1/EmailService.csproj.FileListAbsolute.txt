@@ -1,0 +1,9 @@
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\Code-Maze\IdentityByExamples\EmailService\bin\Debug\netcoreapp3.1\EmailService.deps.json
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\Code-Maze\IdentityByExamples\EmailService\bin\Debug\netcoreapp3.1\EmailService.dll
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\Code-Maze\IdentityByExamples\EmailService\bin\Debug\netcoreapp3.1\EmailService.pdb
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\Code-Maze\IdentityByExamples\EmailService\obj\Debug\netcoreapp3.1\EmailService.csprojAssemblyReference.cache
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\Code-Maze\IdentityByExamples\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfoInputs.cache
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\Code-Maze\IdentityByExamples\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfo.cs
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\Code-Maze\IdentityByExamples\EmailService\obj\Debug\netcoreapp3.1\EmailService.csproj.CoreCompileInputs.cache
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\Code-Maze\IdentityByExamples\EmailService\obj\Debug\netcoreapp3.1\EmailService.dll
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\Code-Maze\IdentityByExamples\EmailService\obj\Debug\netcoreapp3.1\EmailService.pdb

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gqsNKK41GfQR/ABLVXtHMhfM7zAuqFnZAx0cxX3AqGTcPUhcAWpp+JcMmo1cx7PecpAd9TuT8TM92Y8dh1aH/w==",
+  "dgSpecHash": "omgA/JwfZzlLCF4CrKOVLnDDJQdXulNbKo81bCWbPhA2sgn1gKXVPS2m/4PPw7fDdk1Chq9jHytSRR0DSJa2QQ==",
   "success": true,
   "projectFilePath": "E:\\ProjectsWorks\\Practices\\DotnetandAngularExmples\\Dotnet5ExamplesOnGit\\MatrimonialProject\\MatrimonialProject.csproj",
   "expectedPackageFiles": [
@@ -62,7 +62,7 @@
     "C:\\Users\\vipin\\.nuget\\packages\\microsoft.visualstudio.web.codegenerators.mvc\\5.0.1\\microsoft.visualstudio.web.codegenerators.mvc.5.0.1.nupkg.sha512",
     "C:\\Users\\vipin\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\vipin\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.collections.concurrent\\4.3.0\\system.collections.concurrent.4.3.0.nupkg.sha512",
