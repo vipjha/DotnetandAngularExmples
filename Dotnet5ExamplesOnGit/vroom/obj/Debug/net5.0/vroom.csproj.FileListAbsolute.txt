@@ -126,7 +126,6 @@ E:\ProjectsWorks\Practices\DotnetandAngularExmples\Dotnet5ExamplesOnGit\vroom\ob
 E:\ProjectsWorks\Practices\DotnetandAngularExmples\Dotnet5ExamplesOnGit\vroom\obj\Debug\net5.0\ref\vroom.dll
 E:\ProjectsWorks\Practices\DotnetandAngularExmples\Dotnet5ExamplesOnGit\vroom\obj\Debug\net5.0\vroom.pdb
 E:\ProjectsWorks\Practices\DotnetandAngularExmples\Dotnet5ExamplesOnGit\vroom\obj\Debug\net5.0\vroom.genruntimeconfig.cache
-E:\ProjectsWorks\Practices\DotnetandAngularExmples\Dotnet5ExamplesOnGit\vroom\obj\Debug\net5.0\vroom.csprojAssemblyReference.cache
 E:\ProjectsWorks\Practices\DotnetandAngularExmples\Dotnet5ExamplesOnGit\vroom\bin\Debug\net5.0\Humanizer.dll
 E:\ProjectsWorks\Practices\DotnetandAngularExmples\Dotnet5ExamplesOnGit\vroom\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
 E:\ProjectsWorks\Practices\DotnetandAngularExmples\Dotnet5ExamplesOnGit\vroom\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
@@ -203,3 +202,4 @@ E:\ProjectsWorks\Practices\DotnetandAngularExmples\Dotnet5ExamplesOnGit\vroom\bi
 E:\ProjectsWorks\Practices\DotnetandAngularExmples\Dotnet5ExamplesOnGit\vroom\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 E:\ProjectsWorks\Practices\DotnetandAngularExmples\Dotnet5ExamplesOnGit\vroom\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 E:\ProjectsWorks\Practices\DotnetandAngularExmples\Dotnet5ExamplesOnGit\vroom\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\ProjectsWorks\Practices\DotnetandAngularExmples\Dotnet5ExamplesOnGit\vroom\obj\Debug\net5.0\vroom.csproj.AssemblyReference.cache
